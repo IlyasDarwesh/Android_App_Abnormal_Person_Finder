@@ -1,4 +1,4 @@
-# Android_App_Abnormal_Person_Finder
+# Abnormal_Person_Finder
 This  repository is made for another past  Android application that I've developed. 
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
